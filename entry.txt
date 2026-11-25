@@ -1,0 +1,1 @@
+fix: doubled the timeout, deploys now fail twice as slowly
